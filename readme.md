@@ -1,3 +1,4 @@
+```
 Accelerometer Ready.
 Accelerometer Reset.
 Starting sampling...
@@ -37,5 +38,5 @@ root
 |_ accel_3.bin                 3000 Bytes
 |_ accel_4.bin                 3000 Bytes
 |_ accel_5.bin                 3000 Bytes
-
+```
 Enter anything to print directory tree:
